@@ -85,7 +85,7 @@ Publish the website in the given URL.
         <br>
         <br>
         <footer>
-            Developed by:Koduru Sanath Kumar Reddy
+            Developed by:challa sandeep
         </footer>
     </div>
 </body>
