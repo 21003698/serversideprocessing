@@ -121,8 +121,7 @@ urlpatterns = [
 ]
 ~~~
 ## OUTPUT:
-![WhatsApp Image 2022-02-20 at 09 15 54](https://user-images.githubusercontent.com/93427522/154828001-ae55d387-f4cd-4c74-bad1-8c977312ef71.jpeg
-
+![WhatsApp Image 2022-02-20 at 09 15 54](https://user-images.githubusercontent.com/93427522/154828051-78ec5ff2-e74c-4f86-b984-fa15ebfe42e3.jpeg)
 
 ## Result:
 Therefor the above codes are successfully executed to run server side programming and mathematical calcualtions.
