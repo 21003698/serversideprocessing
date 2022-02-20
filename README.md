@@ -119,7 +119,7 @@ urlpatterns = [
 ]
 ~~~
 ## OUTPUT:
-![](sandeep.png)
+![](.png)
 
 ### Home Page:
 
